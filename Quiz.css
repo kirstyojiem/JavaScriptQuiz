@@ -1,0 +1,19 @@
+body {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.header h1,
+.header{
+    text-align: center;
+}
+
+.question {
+    text-align: left;
+}
+
+.answer {
+    text-align: left;
+}
+
+
